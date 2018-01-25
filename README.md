@@ -1,4 +1,5 @@
 # 1
+欢迎star，大伙可以加入一起完善，希望可以帮到大家，使用vue+elementUI，适合初级入门。
 
 > A Vue.js project
 
@@ -8,7 +9,7 @@
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:8010
 npm run dev
 
 # build for production with minification
