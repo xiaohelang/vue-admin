@@ -1,0 +1,122 @@
+<template>
+  <div class="home">
+    大树测试~~~~~4444~~~
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+    <div>30000000</div>
+  </div>
+</template>
+
+<script>
+export default {
+  components: {
+  },
+  computed: {
+    defaultActive: function () {
+      return this.$route.path.replace('/', '')
+    }
+  }
+}
+</script>
+
+<style scoped>
+  .home{  width: 100%;  height: 100%;  }
+
+</style>
