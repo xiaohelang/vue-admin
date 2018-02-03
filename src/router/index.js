@@ -16,6 +16,18 @@ export default new Router({
     //   component: r => require(['../components/Home'], r)
     // },
     {
+      path: '/program/produc',
+      component: r => require(['@/components/program/product'], r),
+      meta: 'program',
+      children: [
+        {
+          path: '/program/create',
+          component: r => require(['@/components/program/create'], r),
+          meta: ''
+        }
+        ]
+    },
+    {
       path: '/manage',
       component: r => require(['@/components/pages/manage'], r),
       meta: '',
